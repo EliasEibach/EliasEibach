@@ -3,6 +3,9 @@
 <!--
 **EliasEibach/EliasEibach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![among-us-twerk](https://user-images.githubusercontent.com/74499663/167256304-ff2c7ce6-55b6-4807-a7bb-4b6bb378ef0b.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
